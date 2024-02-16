@@ -58,6 +58,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>jenkinsdeneme</finalName>
 	</build>
 
 </project>
